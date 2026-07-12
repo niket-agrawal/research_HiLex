@@ -28,7 +28,7 @@ If you use HiLex in your research, please cite the preprint:
 
 ```bibtex
 @article{agrawal2026hilex,
-  author = {Agrawal, Niket and Verma, Arun},
+  author = {Agrawal, Niket and Verma, Ark},
   title = {HiLex: A rapid test to measure lexical proficiency in Hindi},
   journal = {PsyArXiv Preprints},
   year = {2026},
