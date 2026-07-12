@@ -45,5 +45,5 @@ Or in APA format:
 ## 📬 Contact
 
 For issues, queries, feedback or collaborations, please contact:
-- Niket Agrawal: niket_cct@yahoo.com
-- Ark Verma: arkverma@iitk.ac.in
+- Niket Agrawal: [niket_cct@yahoo.com](mailto:niket_cct@yahoo.com)
+- Ark Verma: [arkverma@iitk.ac.in](mailto:arkverma@iitk.ac.in)
