@@ -5,7 +5,7 @@ HiLex is a brief, validated online test designed to measure lexical proficiency 
 ## 🔗 Quick Links
 
 - **Live web version:** [try HiLex online](https://experiment.beehive.quest/u/niketag/hilex/)
-- **Preprint Paper:** [view on PsyArXiv](https://osf.io/preprints/psyarxiv/2ybp8_v1)
+- **Download preprint:** [view on PsyArXiv](https://osf.io/preprints/psyarxiv/2ybp8_v1)
 
 ## 📖 Description
 
